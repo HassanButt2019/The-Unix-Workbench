@@ -1,7 +1,7 @@
 # The-Unix-Workbench
 All Tasks and Assignments of this course
 
-# Navigating the Command Line Exercises
+# (SEC) Navigating the Command Line Exercises
 
 # Set your working directory to the root directory.
 ans) cd /
