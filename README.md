@@ -30,3 +30,12 @@ ans) cat readme.txt
 ans) i will write ans after sometime
 # Find out how many characters are in list.txt without opening the file or printing it to the command line.
 ans) wc list.txt
+
+# Create a file called message.txt in your home directory and move it into another directory.
+1) nano message.txt
+2) mkdir newfolder
+3) mv message.txt newfolder
+# Copy the message.txt you just moved into your home directory.
+cp messsage.txt /home
+# Delete both copies of message.txt. Try to do this without using rm.
+
