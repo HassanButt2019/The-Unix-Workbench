@@ -39,3 +39,40 @@ ans) wc list.txt
 cp messsage.txt /home
 # Delete both copies of message.txt. Try to do this without using rm.
 
+# Week 3
+# Write a Bash program where you assign two numbers to different variables, and then the program prints the sum of those variables.
+
+ans)
+echo "enter number 1"
+read num1
+echo "enter number 2"
+read num2
+echo "$(($num1 + $num2))"
+# Write another Bash program where you assign two strings to different variables, and then the program prints both of those strings.
+ans)
+echo "enter string 1"
+read str1
+
+echo "enter string 2"
+read str2
+
+printf "$str1 \n $str2"
+# a) Write a version where the strings are printed on the same line, and (b) a version where the strings are printed on different lines.
+ans of a)
+echo "enter string 1"
+read str1
+
+echo "enter string 2"
+read str2
+
+printf "$str1 $str2"
+ans of b) 
+echo "enter string 1"
+read str1
+
+echo "enter string 2"
+read str2
+
+printf "$str1 \n $str2"
+
+
