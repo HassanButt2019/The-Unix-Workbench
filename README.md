@@ -66,7 +66,7 @@ echo "enter string 2"
 read str2
 
 printf "$str1 $str2"
-ans of b) 
+\nans of b) 
 echo "enter string 1"
 read str1
 
