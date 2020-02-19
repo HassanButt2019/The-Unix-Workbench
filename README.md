@@ -84,4 +84,20 @@ ans))
 
 echo "Number of arguments: $#"
 
+# Write a script that asks the user for an adjective, a noun, and a verb, and then use those words in a sentence (like Mad Libs).
+ans))
+
+echo "enter adjective"
+read adjective
+
+echo "enter noun"
+read  noun
+
+echo "enter verb"
+read verb
+
+printf "$adjective $noun $verb"
+
+
+
 
